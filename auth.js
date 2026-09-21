@@ -19,7 +19,7 @@ function login(username, password) {
   }
 
   // Đăng nhập đúng
-  if (username === "admin" && password === "9999") {
+  if (username === "admin" && password === "123") {
     return true;
   }
 

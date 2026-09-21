@@ -1,0 +1,12 @@
+{
+  "name": "login-test-71ITSE41203",
+  "version": "1.0.0",
+  "description": "Demo Smoke and Regression Test với Jest",
+  "scripts": {
+    "test:smoke": "jest auth.smoke.test.js",
+    "test:regression": "jest auth.regression.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
